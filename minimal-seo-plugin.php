@@ -16,7 +16,6 @@ if (!defined('ABSPATH')) {
 // Include necessary files
 require_once plugin_dir_path(__FILE__) . 'includes/meta-box.php';
 require_once plugin_dir_path(__FILE__) . 'includes/social-meta-tags.php';
-require_once plugin_dir_path(__FILE__) . 'includes/sitemap.php';
 require_once plugin_dir_path(__FILE__) . 'includes/settings.php';
 require_once plugin_dir_path(__FILE__) . 'includes/noindex-nofollow.php';
 
