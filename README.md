@@ -1,6 +1,6 @@
 # WP Minimal SEO Plugin
 
-WP Minimal SEO Plugin is a lightweight SEO plugin for WordPress that helps you optimize your website for search engines without overwhelming you with unnecessary features.
+WP Minimal SEO Plugin is a lightweight SEO plugin for WordPress that helps you optimize your website for search engines without overwhelming you with unnecessary features and ADV.
 
 ## Features
 
@@ -48,6 +48,4 @@ WP Minimal SEO Plugin is a lightweight SEO plugin for WordPress that helps you o
 
 - The plugin automatically adds canonical URLs to your posts and pages to avoid duplicate content issues.
 
-## Code Reference
 
-### Main Plugin File
