@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Minimal SEO Plugin
-Plugin URI: https://www.michelepaolino.me
+Plugin Name: Logical SEO Toolbox
+Plugin URI: https://github.com/michelediss/wp-logical-seo
 Description: A minimal SEO plugin for managing meta tags, sitemap, robots.txt, noindex, canonical, and social optimization.
 Version: 1.0
 Author: Michele Paolino
