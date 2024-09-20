@@ -1,6 +1,6 @@
-# WP Minimal SEO Plugin
+# Logical SEO plugin for WordPress
 
-WP Minimal SEO Plugin is a lightweight SEO plugin for WordPress that helps you optimize your website for search engines without overwhelming you with unnecessary features and ADV.
+The Logical SEO plugin is a lightweight SEO plugin for WordPress that helps you optimize your website for search engines without overwhelming you with unnecessary features and ADV.
 
 ## Features
 
@@ -13,7 +13,7 @@ WP Minimal SEO Plugin is a lightweight SEO plugin for WordPress that helps you o
 
 ## Installation
 
-1. Upload the plugin files to the `/wp-content/plugins/wp-minimal-seo-plugin` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the `/wp-content/plugins/wp-logical-seo` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 3. Use the Settings->SEO screen to configure the plugin.
 
